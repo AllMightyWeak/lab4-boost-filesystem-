@@ -1,4 +1,4 @@
-// Copyright by C-developers1488
+// Copyright by AllMightyWeak
 
 #ifndef INCLUDE_HEADER_HPP_
 #define INCLUDE_HEADER_HPP_
